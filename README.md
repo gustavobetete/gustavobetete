@@ -1,6 +1,6 @@
 ### Fala tropa! Meu nome é Gustavo Betete 👾👽
 
-- 🔭 Hoje trabalho na Compass UOL
+- 🔭 A procura de um emprego
 - 🌱 Estudando Java
 <div align="center">
   <a href="https://github.com/GustavoBetete">
