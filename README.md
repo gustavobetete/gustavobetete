@@ -1,7 +1,8 @@
 ### Fala tropa! Meu nome é Gustavo Betete 👾👽
 
 - 🔭 A procura de um emprego
-- 🌱 Estudando Java
+- ☕ Estudando Java
+- 🐍 Estudando Python
 <div align="center">
   <a href="https://github.com/GustavoBetete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBetete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
