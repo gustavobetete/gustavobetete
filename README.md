@@ -4,6 +4,8 @@
 - ☕ Estudando Java
 - 🐍 Estudando Python
 - <> Estudando HTML e CSS
+- JS Estudando JavaScript
+
 <div align="center">
   <a href="https://github.com/GustavoBetete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBetete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,6 +20,7 @@
   <img align="center" alt="Betete-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Betete-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Betete-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Betete-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
   
   ##
