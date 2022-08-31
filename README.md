@@ -1,6 +1,6 @@
 ### Fala tropa! Meu nome é Gustavo Betete 👾👽
 
-- 🔭 A procura de um emprego
+- 🔭 Trabalhando na Bhut
 - ☕ Estudando Java
 - 🐍 Estudando Python
 - <> Estudando HTML e CSS
