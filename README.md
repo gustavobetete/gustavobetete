@@ -1,4 +1,4 @@
-### Fala tropa! Meu nome é Gustavo Betete 👾👽
+### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽
 
 - 🔭 Trabalhando na Bhut
 - ☕ Estudando Java
