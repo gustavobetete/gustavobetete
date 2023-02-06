@@ -1,10 +1,8 @@
 ### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽
 
-- 🔭 Trabalhando na Bhut
-- ☕ Estudando Java
-- 🐍 Estudando Python
-- <> Estudando HTML e CSS
-- JS Estudando JavaScript
+- ☕ Estudando Java / Spring Boot
+- <> Estudando HTML e CSS / React
+- JS Estudando JavaScript / nodeJs
 
 <div align="center">
   <a href="https://github.com/Gustavobetete">
