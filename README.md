@@ -1,7 +1,7 @@
 ### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽
 
 - ☕ Estudando Java / Spring Boot
-- <> Estudando HTML e CSS / React
+- <> Estudando HTML e CSS / React && React-Native
 - JS Estudando JavaScript / nodeJs
 
 <div align="center">
