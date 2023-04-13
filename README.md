@@ -1,8 +1,8 @@
-### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽
+### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽 Sou formado em Análise e Desenvolvimento de sistemas e atualmete estou fazendo Pós graduação de desenvolvedor Full stack na Puc Minas.
 
-- ☕ Estudando Java / Spring Boot
 - <> Estudando HTML e CSS / React e React-Native
 - JS Estudando JavaScript / nodeJs
+- ☕ Estudando Java / Spring Boot
 
 <div align="center">
   <a href="https://github.com/Gustavobetete">
