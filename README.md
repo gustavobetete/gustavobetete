@@ -1,8 +1,9 @@
 ### Fala tropa! Meu nome é Gustavo Betete Castiglioni 👾👽 Sou formado em Análise e Desenvolvimento de sistemas e atualmete estou fazendo Pós graduação de desenvolvedor Full stack na Puc Minas.
 
-- <> Estudando HTML e CSS / React e React-Native
-- JS Estudando JavaScript / nodeJs
-- ☕ Estudando Java / Spring Boot
+- React e React-Native
+- JavaScript / Node.JS
+- HTML e CSS
+- Java / Spring Boot
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobetete&theme=tokyonight" />
