@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gustavo Betete Castiglioni ✌️ Sou formado em Análise e Desenvolvimento de sistemas e atualmete estou fazendo Pós graduação de desenvolvedor Full stack na Puc Minas.
+### Olá! Meu nome é Gustavo Betete Castiglioni ✌️ Sou formado em Análise e Desenvolvimento de sistemas e atualmete estou fazendo Pós graduação de desenvolvedor Full Stack na Puc Minas.
 
 - React e React-Native
 - JavaScript / Node.JS
