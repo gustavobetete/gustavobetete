@@ -3,7 +3,6 @@
 - React e React-Native
 - JavaScript / Node.JS
 - HTML e CSS
-- Java / Spring Boot
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobetete&theme=tokyonight" />
