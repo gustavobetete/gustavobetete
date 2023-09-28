@@ -4,6 +4,8 @@
 - JavaScript / Node.JS
 - HTML e CSS
 
+<!-- Profile view <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobetete&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobetete" /> </p> -->
+
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobetete&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavobetete&theme=tokyonight" />
