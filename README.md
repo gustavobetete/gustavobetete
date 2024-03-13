@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gustavo ✌️ Sou formado em Análise e Desenvolvimento de Sistemas e atualmete estou fazendo Pós graduação de Desenvolvedor Web Full Stack na Puc Minas.
+### Olá! Meu nome é Gustavo ✌️ Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvedor Web Full Stack.
 
 - React-Native e React
 - JavaScript / Node.JS
