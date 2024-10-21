@@ -1,8 +1,32 @@
-### Olá! Meu nome é Gustavo ✌️ Sou formado em Análise e Desenvolvimento de Sistemas e Pós graduado em Desenvolvedor Web Full Stack.
+# Olá! Eu sou o Gustavo ✌️
 
-- React-Native e React
-- JavaScript / Node.JS
-- HTML e CSS
+Sou formado em Análise e Desenvolvimento de Sistemas e possuo uma pós-graduação em Desenvolvimento Web Full Stack.
+
+## Tecnologias que utilizo
+
+- **Linguagens:** JavaScript, HTML, CSS
+- **Frameworks:** React, React Native
+- **Backend:** Node.js
+
+## Sobre mim
+
+Atualmente, estou focado em desenvolver aplicações web e mobile, buscando sempre melhorar minhas habilidades e contribuir com projetos inovadores.
+
+---
+
+# Hello! I'm Gustavo ✌️
+
+I hold a degree in Systems Analysis and Development and a postgraduate degree in Full Stack Web Development.
+
+## Technologies I Use
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, React Native
+- **Backend:** Node.js
+
+## About Me
+
+I am currently focused on developing web and mobile applications, always looking to enhance my skills and contribute to innovative projects.
 
 <!-- Profile view <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobetete&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobetete" /> </p> -->
 
