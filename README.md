@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e possuo uma pós-graduaç
 
 ## Tecnologias que utilizo
 
-- **Linguagens:** JavaScript, HTML, CSS
+- **Linguagens:** JavaScript, TypeScript
 - **Frameworks:** React, React Native
 - **Backend:** Node.js
 
@@ -20,7 +20,7 @@ I hold a degree in Systems Analysis and Development and a postgraduate degree in
 
 ## Technologies I Use
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, TypeScript
 - **Frameworks:** React, React Native
 - **Backend:** Node.js
 
