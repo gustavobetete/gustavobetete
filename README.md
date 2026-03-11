@@ -1,19 +1,3 @@
-# Olá! Eu sou o Gustavo ✌️
-
-Sou formado em Análise e Desenvolvimento de Sistemas e possuo uma pós-graduação em Desenvolvimento Web Full Stack.
-
-## Tecnologias que utilizo
-
-- **Linguagens:** JavaScript, TypeScript
-- **Frameworks:** React, React Native
-- **Backend:** Node.js
-
-## Sobre mim
-
-Atualmente, estou focado em desenvolver aplicações web e mobile, buscando sempre melhorar minhas habilidades e contribuir com projetos inovadores.
-
----
-
 # Hello! I'm Gustavo ✌️
 
 I hold a degree in Systems Analysis and Development and a postgraduate degree in Full Stack Web Development.
